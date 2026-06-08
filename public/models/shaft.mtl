@@ -1,0 +1,25 @@
+# Elevator Shaft Materials
+
+newmtl Door
+Ka 0.1 0.1 0.1
+Kd 0.6 0.6 0.7
+Ks 0.8 0.8 0.8
+Ns 80
+
+newmtl Rail
+Ka 0.05 0.05 0.05
+Kd 0.3 0.3 0.35
+Ks 0.9 0.9 0.9
+Ns 100
+
+newmtl Car
+Ka 0.1 0.1 0.1
+Kd 0.8 0.8 0.85
+Ks 0.5 0.5 0.5
+Ns 60
+
+newmtl Cable
+Ka 0.02 0.02 0.02
+Kd 0.15 0.15 0.15
+Ks 0.3 0.3 0.3
+Ns 40
