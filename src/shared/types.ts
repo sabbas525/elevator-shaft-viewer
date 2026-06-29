@@ -12,6 +12,7 @@ export interface Component {
   type: 'door' | 'guide_rail' | 'car' | 'cable';
   mesh_name: string | null;
   condition: 'good' | 'fair' | 'poor';
+  next_inspection: string | null;
 }
 
 export interface Inspection {
